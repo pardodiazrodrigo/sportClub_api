@@ -19,3 +19,6 @@ http://localhost:8000/customers/swagger/
 
 Para visualizar los clientes desde el front:
 http://localhost:5173/
+
+La documentacion de la api se puede acceder en:
+http://localhost:8000/customers/docs/
