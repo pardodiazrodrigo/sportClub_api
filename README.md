@@ -1,7 +1,9 @@
 # sportClub_api
 ## Instalacion:
 - Clonar repositorio
-- Instalar los paquetes del backend con el comando: pip install -r requirements.txt
+- Instalar los paquetes del backend con el comando:
+    - pip install -r requirements.txt
+    - python manage.py migrate
 - Instalar los paquetes del front con los siguientes comandos:
     - cd client
     - npm install
