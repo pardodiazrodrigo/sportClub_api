@@ -1,11 +1,4 @@
 # sportClub_api
-## Descripcion:
-
-Dada una tabla de base de datos con 5 campos DNI, nombre, apellido, Fecha de Nacimiento y un booleano que indica si la persona descrita es de GBA, armar un servicio de búsqueda y filtrado desde el backend.
-
-El frontend debe tener una tabla con un buscador y la posibilidad de filtrar por rango de fechas de nacimiento y si es de GBA o no.
-
-La base de datos que se utilizo fue SQLite.
 
 ## Instalacion:
 - Clonar repositorio
